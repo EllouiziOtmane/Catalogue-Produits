@@ -12,4 +12,7 @@ export class NewProductComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  onSaveProduct(value: any) {
+
+  }
 }
